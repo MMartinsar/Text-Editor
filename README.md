@@ -10,41 +10,41 @@ The different modifications are listed below.
 
 ---
 
-- <ins>Uppercase:</ins>
+- **Uppercase:**
 
 Turns all letters in the text to uppercase.
 
-Example:
+<ins>Example:</ins>
 
 Hello World -> HELLO WORLD
 
 ---
 
-- <ins>Lowercase:</ins>
+- **Lowercase:**
 
 Turns all letters in the text to lowercase.
 
-Example:
+<ins>Example:</ins>
 
 Hello World -> hello world
 
 ---
 
-- <ins>Title Case:</ins>
+- **Title Case:**
 
 Turns all the first letter of each word to capital case.
 
-Example:
+<ins>Example:</ins>
 
 hello world -> Hello World
 
 ---
 
-- <ins>First Letter Capital:</ins>
+- **First Letter Capital:**
 
 Turns the first letter of the text and the first letter after a dot into capital case.
 
-Example:
+<ins>Example:</ins>
 
 hello. world -> Hello. World.
 
@@ -53,16 +53,16 @@ hello. world -> Hello. World.
 
 ---
 
-- <ins>AlTeRnAtE cAsE:</ins>
+- **AlTeRnAtE cAsE:**
 
 Turns the text into alternate case.
 
-Example:
+<ins>Example:</ins>
 
 Hello World -> HeLlO wOrLd
 
 ---
 
-- <ins>Add Punctuation:</ins>
+- **Add Punctuation:**
 
 Just adds a dot to the end of the text without changing the modification done before the addition.
